@@ -1,0 +1,79 @@
+  body
+        {
+            
+            margin: 0;
+            padding:0;
+        }
+        
+        
+        
+         #head
+            {
+            background-color: cornflowerblue;
+                 width:1330px;
+                padding:10px 30px;
+                color:white;
+            }
+        #quesName
+        {
+             width:1330px;
+            color: white;
+            padding:10px 30px; 
+           background-color: deepskyblue;
+            
+            
+            
+        }
+        
+        #quesDisplay
+        {
+            height: 540px;
+            width:1320px;
+            border-left: 15px solid cornflowerblue;
+            border-right: 15px solid cornflowerblue;
+            border-top: 1px solid deepskyblue; 
+            margin-top: 0px;
+        
+            
+        
+        }
+        
+        #questionBox
+        {
+            margin: auto;
+            width: 600px;
+            height: 500px;
+            /*border: 1px solid red;*/
+            
+            
+        }
+        
+        #question
+        {
+           margin-top:60px;  
+          text-align: justify;
+            font-weight:600; 
+            font: 20px;
+              
+        }
+        
+        .impButton
+        {
+          background: cornflowerblue;
+            padding: 5px;
+            width:120px;
+            float: left;
+        
+           
+        }
+        
+        .footer
+        {
+            float: left;
+         background: cornflowerblue;
+            height:28px;
+            width:836px;
+            margin-top: 1px; 
+             border-left: 2px solid white;
+            
+        }
